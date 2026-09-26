@@ -1,4 +1,4 @@
-# Adaptive Live TV
+# ARK Content Suggestion System
 
 A local, open-source live-TV layer for home media servers.
 
